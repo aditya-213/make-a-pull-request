@@ -1,5 +1,5 @@
-# love babbar
+# Adi
 
-## 3st Year, CSE
+## 3rd Year, CSE
 
 ## c++, JavaScript
